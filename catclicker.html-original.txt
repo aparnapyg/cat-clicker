@@ -1,0 +1,25 @@
+<html>
+<head>
+	<script src = "catClick-lib.js">
+	//var cnt=0;
+
+	//document.addEventListener('click', clickCount);
+
+/*	function clickCount(){
+		var elem = document.getElementById("catimg");
+		cnt++;
+		alert('Cat clicked'+cnt);
+	}*/
+
+	/*	elem.addEventListener('click', function(){
+		  //the element has been clicked... do stuff here
+		  alert('cat clicked');
+		}, false);
+	} */
+	</script>
+</head>
+<body>
+	<img id="catimg" src="catimg.jpg"/>
+</body>
+</html>
+
